@@ -11,4 +11,4 @@
 - 📺 Drama
 - 🔵 Game
 
-![Dev.Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinWook&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
