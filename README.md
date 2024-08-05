@@ -11,6 +11,6 @@
 - 📺 Drama
 - 🔵 Game
   
-[![Jin Wook's GitHub stats](https://github-readme-stats.vercel.app/api?username=devposit)](https://github.com/devposit/github-readme-stats)
+![Jin Wook's GitHub stats](https://github-readme-stats.vercel.app/api?username=devposit&hide=prs,issues,contribs&show_icons=true&theme=transparen
 
 
