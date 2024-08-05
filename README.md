@@ -10,3 +10,5 @@
 ### What I Like
 - 📺 Drama
 - 🔵 Game
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev.Jin&show_icons=true&theme=radical)
