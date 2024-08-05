@@ -1,16 +1,12 @@
-## Hi there 👋
+# Dev.Jin Wook 😉
+### Introduce
+- I am currently a spring developer.
+- My hometown is DaeJeon, in Korea
 
-<!--
-**devposit/devposit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experience
+- 🎓  Korea National University of Transportation , software major
+- 🚀  Innovation-T Backend Developer (2022-05.~2024-05)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Like
+- 📺 Drama
+- 🔵 Game
